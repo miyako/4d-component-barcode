@@ -28,3 +28,4 @@ WRITE PICTURE FILE($path;$bar)
 OPEN URL($path;"Preview")
 ```
 
+![](200001001980.png)
